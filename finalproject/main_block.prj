@@ -1,0 +1,6 @@
+verilog work "ssb.v"
+verilog work "score.v"
+verilog work "led.v"
+verilog work "four_bit_counter.v"
+verilog work "ClkDivider.v"
+verilog work "main_block.v"
